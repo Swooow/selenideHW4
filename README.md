@@ -1,1 +1,1 @@
-java -jar ./artifacts/app-card-delivery.jar
+[![Java CI with Gradle](https://github.com/Swooow/selenideHW4/actions/workflows/gradle.yml/badge.svg)](https://github.com/Swooow/selenideHW4/actions/workflows/gradle.yml)
